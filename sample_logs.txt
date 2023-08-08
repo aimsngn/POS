@@ -1,0 +1,14 @@
+[2023-07-28 22:30:54] INFO: Employee 4 logged in
+[2023-07-28 22:31:30] INFO: Employee 4 processed a new transaction. Transaction: [107]
+[2023-07-28 22:31:34] INFO: Employee 4 logged out
+[2023-08-01 00:14:36] INFO: Employee 3 logged in
+[2023-08-01 00:14:45] INFO: Employee 3 processed a new transaction. Transaction: [117]
+[2023-08-01 00:14:48] INFO: Employee 3 voided transaction.
+[2023-08-01 00:15:08] FINE: Employee 3 added a new customer. Customer ID: [21]. Customer Phone: [2098972222]. Customer Name: [anna]
+[2023-08-01 00:15:08] INFO: Employee 3 processed a new transaction. Transaction: [118]
+[2023-08-01 00:15:10] INFO: Employee 3 logged out
+[2023-08-02 21:42:52] WARNING: System failure. Can not proceed with product selection and transaction.
+[2023-08-07 17:32:43] INFO: Employee 1 logged in
+[2023-08-07 17:33:44] FINE: Employee 1 added a new customer. Customer ID: [26]. Customer Phone: [4353782342]. Customer Name: [kyoko]
+[2023-08-07 17:33:44] INFO: Employee 1 processed a new transaction. Transaction: [128]
+[2023-08-07 17:33:57] INFO: Employee 1 logged out
