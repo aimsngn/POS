@@ -114,4 +114,12 @@ Screenshots of the Expected Database Output:
 
 ### Log Output <a name="log-output"></a>
 
-    The log file for the POS system is intentionally ignored by Git as it gets updated with each run of the program. To offer a glimpse of the log output's structure, a sample log file named `sample_logs.txt` is included in the repository. These sample logs have been extracted from the actual log file and are provided for reference to showcase the formatting and content of the log entries.
+    The log file for the POS system isn't a part of this repository to keep it untracked since it's updated with each run of the program. 
+    To offer a glimpse of the log output's structure, a sample log file named `sample_logs.txt` is included in the repository. 
+    These sample logs have been extracted from the actual log file and are provided for reference to showcase the formatting and content of the log entries.
+
+    Additionally, the log file is also being used by a different python script. 
+    As such, the log file is inside the root directoy where this repository and the python's repository is located,
+    rather than have it ignored by .gitignore
+    
+   
