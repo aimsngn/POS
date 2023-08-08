@@ -64,13 +64,17 @@ The program generates log outputs based on events using Java's logging utility.
 Here you can find screenshots of the expected console output of the POS system:
 
 - Homepage:
+  ![Alt text](images/homepage.png)
   
-
-- Transaction Processing:
-  
+- Transaction Functionality Page:
+  ![Alt text](images/transaction.png)
+  ![Alt text](images/transaction_cart.png)
 
 - Receipt Example:
-  
+  ![Alt text](images/receipt.png)
+
+- Sales Functionality Page:
+  ![Alt text](images/sales.png)
 
 ## Database Setup <a name="database-config"></a>
 

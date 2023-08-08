@@ -140,7 +140,7 @@ public class cartSelection {
                     if (productIDs.contains(productID)) {
                         productIDs.remove(Integer.valueOf(productID)); 
                         System.out.println("_________________________________");
-                        System.out.println("Item removed. Your cart:");
+                        System.out.println("\nItem removed. Your cart:");
                         showCart();
                         System.out.println("_________________________________");
                     } else {
